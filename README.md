@@ -150,6 +150,10 @@ data, then analyse the data. Use `matplotlib` to create a new diagram.
 - The response has the same broad shape as before: look inside `result`, then find the records.
 - Load the records into a DataFrame and use `df.head()` and `df.columns` to discover what this dataset contains.
 
+#### Bonus exercise
+
+Using the info in the data portal [guidance](https://www.neso.energy/data-portal/api-guidance), return a list of all the datasets available via the NESO API (hint, look at the package_list endpoint.)
+
 ---
 
 ## Troubleshooting
